@@ -126,10 +126,10 @@
     "article": 2,
     "clause": 9,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "household_business",
-      "business_registration",
-      "hộ kinh doanh"
+      "đăng ký doanh nghiệp",
+      "hộ kinh doanh",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -182,12 +182,12 @@
     "article": 2,
     "clause": 4,
     "keywords": [
-      "clause_19",
-      "article_4",
-      "hộ kinh doanh",
       "household_business",
-      "đăng ký doanh nghiệp",
-      "business_registration"
+      "article_4",
+      "clause_19",
+      "business_registration",
+      "hộ kinh doanh",
+      "đăng ký doanh nghiệp"
     ],
     "chunk_type": "clause"
   },
@@ -212,10 +212,10 @@
     "article": 2,
     "clause": 1,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "household_business",
-      "business_registration",
-      "hộ kinh doanh"
+      "đăng ký doanh nghiệp",
+      "hộ kinh doanh",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -227,8 +227,8 @@
     "article": 2,
     "clause": 8,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -240,12 +240,12 @@
     "article": 2,
     "clause": 9,
     "keywords": [
-      "hộ kinh doanh",
       "household_business",
-      "đăng ký doanh nghiệp",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "hộ kinh doanh",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -257,11 +257,11 @@
     "article": 2,
     "clause": 10,
     "keywords": [
-      "hộ kinh doanh",
       "household_business",
-      "đăng ký doanh nghiệp",
       "business_registration",
-      "article_12"
+      "hộ kinh doanh",
+      "article_12",
+      "đăng ký doanh nghiệp"
     ],
     "chunk_type": "clause"
   },
@@ -273,8 +273,8 @@
     "article": 2,
     "clause": 11,
     "keywords": [
-      "transfer",
       "chuyển nhượng",
+      "transfer",
       "documents",
       "giấy tờ"
     ],
@@ -288,8 +288,8 @@
     "article": 2,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -301,8 +301,8 @@
     "article": 2,
     "clause": 0,
     "keywords": [
-      "transfer",
-      "chuyển nhượng"
+      "chuyển nhượng",
+      "transfer"
     ],
     "chunk_type": "point"
   },
@@ -324,12 +324,12 @@
     "article": 2,
     "clause": 0,
     "keywords": [
+      "chuyển nhượng",
       "transfer",
       "vốn góp",
+      "giấy tờ",
       "capital_contribution",
-      "chuyển nhượng",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -341,8 +341,8 @@
     "article": 2,
     "clause": 12,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -354,8 +354,8 @@
     "article": 2,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -380,8 +380,8 @@
     "article": 2,
     "clause": 0,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -432,10 +432,10 @@
     "article": 4,
     "clause": 2,
     "keywords": [
-      "đăng ký doanh nghiệp",
+      "article_12",
       "clause_2",
-      "business_registration",
-      "article_12"
+      "đăng ký doanh nghiệp",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -460,9 +460,9 @@
     "article": 4,
     "clause": 4,
     "keywords": [
-      "member",
-      "thành viên",
       "shareholder",
+      "thành viên",
+      "member",
       "cổ đông"
     ],
     "chunk_type": "clause"
@@ -699,10 +699,10 @@
     "article": 7,
     "clause": 2,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "enterprise_code",
-      "business_registration",
-      "mã số doanh nghiệp"
+      "đăng ký doanh nghiệp",
+      "mã số doanh nghiệp",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -768,9 +768,9 @@
     "clause": 9,
     "keywords": [
       "enterprise_code",
+      "giấy tờ",
       "mã số doanh nghiệp",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -808,8 +808,8 @@
     "article": 7,
     "clause": 2,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -834,10 +834,10 @@
     "article": 10,
     "clause": 1,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -862,10 +862,10 @@
     "article": 10,
     "clause": 3,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -897,10 +897,10 @@
     "article": 11,
     "clause": 2,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -912,14 +912,14 @@
     "article": 11,
     "clause": 3,
     "keywords": [
-      "shareholder",
-      "cổ đông",
       "member",
-      "đăng ký doanh nghiệp",
-      "thành viên",
+      "shareholder",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "cổ đông",
+      "thành viên",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -1051,9 +1051,9 @@
     "clause": 2,
     "keywords": [
       "đăng ký doanh nghiệp",
-      "business_registration",
       "ủy quyền",
-      "delegation"
+      "delegation",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -1066,9 +1066,9 @@
     "clause": 3,
     "keywords": [
       "đăng ký doanh nghiệp",
-      "business_registration",
       "ủy quyền",
-      "delegation"
+      "delegation",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -1081,10 +1081,10 @@
     "clause": 4,
     "keywords": [
       "clause_2",
-      "delegation",
       "ủy quyền",
-      "đăng ký doanh nghiệp",
-      "business_registration"
+      "delegation",
+      "business_registration",
+      "đăng ký doanh nghiệp"
     ],
     "chunk_type": "clause"
   },
@@ -1096,14 +1096,14 @@
     "article": 12,
     "clause": 5,
     "keywords": [
-      "clause_5",
-      "article_21",
-      "delegation",
       "ủy quyền",
-      "đăng ký doanh nghiệp",
+      "delegation",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "article_21",
+      "clause_5",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -1178,8 +1178,8 @@
     "clause": 2,
     "keywords": [
       "đăng ký doanh nghiệp",
-      "business_registration",
-      "clause_1"
+      "clause_1",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -1244,10 +1244,10 @@
     "article": 14,
     "clause": 3,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -1289,8 +1289,8 @@
     "article": 15,
     "clause": 3,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -1322,9 +1322,9 @@
     "article": 15,
     "clause": 4,
     "keywords": [
+      "giấy tờ",
       "clause_3",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -1336,8 +1336,8 @@
     "article": 15,
     "clause": 5,
     "keywords": [
-      "article_41",
-      "clause_5"
+      "clause_5",
+      "article_41"
     ],
     "chunk_type": "clause"
   },
@@ -1423,8 +1423,8 @@
     "article": 16,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -1478,8 +1478,8 @@
     "article": 18,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -1491,8 +1491,8 @@
     "article": 18,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -1516,8 +1516,8 @@
     "article": 18,
     "clause": 3,
     "keywords": [
-      "enterprise_code",
       "shareholder",
+      "enterprise_code",
       "mã số doanh nghiệp",
       "cổ đông"
     ],
@@ -1662,8 +1662,8 @@
     "article": 21,
     "clause": 5,
     "keywords": [
-      "clause_1",
-      "article_216"
+      "article_216",
+      "clause_1"
     ],
     "chunk_type": "clause"
   },
@@ -1919,10 +1919,10 @@
     "article": 23,
     "clause": 0,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "household_business",
-      "business_registration",
-      "hộ kinh doanh"
+      "đăng ký doanh nghiệp",
+      "hộ kinh doanh",
+      "business_registration"
     ],
     "chunk_type": "point"
   },
@@ -1934,10 +1934,10 @@
     "article": 23,
     "clause": 0,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "household_business",
-      "business_registration",
-      "hộ kinh doanh"
+      "đăng ký doanh nghiệp",
+      "hộ kinh doanh",
+      "business_registration"
     ],
     "chunk_type": "point"
   },
@@ -1949,10 +1949,10 @@
     "article": 23,
     "clause": 0,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "household_business",
-      "business_registration",
-      "hộ kinh doanh"
+      "đăng ký doanh nghiệp",
+      "hộ kinh doanh",
+      "business_registration"
     ],
     "chunk_type": "point"
   },
@@ -1977,10 +1977,10 @@
     "article": 23,
     "clause": 0,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "household_business",
-      "business_registration",
-      "hộ kinh doanh"
+      "đăng ký doanh nghiệp",
+      "hộ kinh doanh",
+      "business_registration"
     ],
     "chunk_type": "point"
   },
@@ -1992,10 +1992,10 @@
     "article": 23,
     "clause": 0,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "household_business",
-      "business_registration",
-      "hộ kinh doanh"
+      "đăng ký doanh nghiệp",
+      "hộ kinh doanh",
+      "business_registration"
     ],
     "chunk_type": "point"
   },
@@ -2089,10 +2089,10 @@
     "article": 23,
     "clause": 0,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "household_business",
-      "business_registration",
-      "hộ kinh doanh"
+      "đăng ký doanh nghiệp",
+      "hộ kinh doanh",
+      "business_registration"
     ],
     "chunk_type": "point"
   },
@@ -2130,10 +2130,10 @@
     "article": 23,
     "clause": 0,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "household_business",
-      "business_registration",
-      "hộ kinh doanh"
+      "đăng ký doanh nghiệp",
+      "hộ kinh doanh",
+      "business_registration"
     ],
     "chunk_type": "point"
   },
@@ -2193,10 +2193,10 @@
     "article": 23,
     "clause": 0,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "household_business",
-      "business_registration",
-      "hộ kinh doanh"
+      "đăng ký doanh nghiệp",
+      "hộ kinh doanh",
+      "business_registration"
     ],
     "chunk_type": "point"
   },
@@ -2231,10 +2231,10 @@
     "article": 24,
     "clause": 1,
     "keywords": [
+      "giấy tờ",
       "clause_1",
-      "article_19",
       "documents",
-      "giấy tờ"
+      "article_19"
     ],
     "chunk_type": "clause"
   },
@@ -2246,8 +2246,8 @@
     "article": 24,
     "clause": 2,
     "keywords": [
-      "member",
       "thành viên",
+      "member",
       "clause_1",
       "article_20"
     ],
@@ -2271,10 +2271,10 @@
     "article": 11,
     "clause": 3,
     "keywords": [
-      "member",
       "thành viên",
-      "clause_3",
-      "article_21"
+      "article_21",
+      "member",
+      "clause_3"
     ],
     "chunk_type": "clause"
   },
@@ -2297,13 +2297,13 @@
     "clause": 4,
     "keywords": [
       "shareholder",
-      "cổ đông",
-      "clause_1",
-      "article_22",
-      "delegation",
       "ủy quyền",
-      "documents",
-      "giấy tờ"
+      "delegation",
+      "cổ đông",
+      "giấy tờ",
+      "article_22",
+      "clause_1",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -2350,11 +2350,11 @@
     "article": 25,
     "clause": 1,
     "keywords": [
+      "business_registration",
+      "giấy tờ",
       "đăng ký doanh nghiệp",
       "article_198",
-      "business_registration",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -2366,10 +2366,10 @@
     "article": 25,
     "clause": 0,
     "keywords": [
-      "article_24",
+      "giấy tờ",
       "clause_3",
-      "documents",
-      "giấy tờ"
+      "article_24",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -2404,8 +2404,8 @@
     "clause": 2,
     "keywords": [
       "article_199",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -2417,10 +2417,10 @@
     "article": 24,
     "clause": 0,
     "keywords": [
-      "article_24",
+      "giấy tờ",
       "clause_3",
-      "documents",
-      "giấy tờ"
+      "article_24",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -2444,10 +2444,10 @@
     "article": 24,
     "clause": 3,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -2459,10 +2459,10 @@
     "article": 24,
     "clause": 0,
     "keywords": [
+      "giấy tờ",
       "article_24",
-      "clause_2",
       "documents",
-      "giấy tờ"
+      "clause_2"
     ],
     "chunk_type": "point"
   },
@@ -2496,10 +2496,10 @@
     "article": 26,
     "clause": 1,
     "keywords": [
+      "giấy tờ",
       "article_24",
-      "clause_2",
       "documents",
-      "giấy tờ"
+      "clause_2"
     ],
     "chunk_type": "clause"
   },
@@ -2521,8 +2521,8 @@
     "article": 26,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -2534,8 +2534,8 @@
     "article": 26,
     "clause": 0,
     "keywords": [
-      "transfer",
       "chuyển nhượng",
+      "transfer",
       "documents",
       "giấy tờ"
     ],
@@ -2562,10 +2562,10 @@
     "article": 26,
     "clause": 2,
     "keywords": [
-      "member",
       "clause_3",
-      "article_24",
+      "member",
       "thành viên",
+      "article_24",
       "documents",
       "giấy tờ"
     ],
@@ -2579,12 +2579,12 @@
     "article": 26,
     "clause": 0,
     "keywords": [
-      "vốn góp",
-      "capital_contribution",
       "member",
+      "vốn góp",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "capital_contribution",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -2609,10 +2609,10 @@
     "article": 26,
     "clause": 3,
     "keywords": [
+      "giấy tờ",
       "member",
-      "thành viên",
       "documents",
-      "giấy tờ"
+      "thành viên"
     ],
     "chunk_type": "clause"
   },
@@ -2624,10 +2624,10 @@
     "article": 26,
     "clause": 0,
     "keywords": [
-      "article_24",
+      "giấy tờ",
       "clause_3",
-      "documents",
-      "giấy tờ"
+      "article_24",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -2652,10 +2652,10 @@
     "article": 26,
     "clause": 4,
     "keywords": [
-      "member",
       "clause_3",
-      "article_24",
+      "member",
       "thành viên",
+      "article_24",
       "documents",
       "giấy tờ"
     ],
@@ -2669,10 +2669,10 @@
     "article": 26,
     "clause": 0,
     "keywords": [
-      "capital_contribution",
+      "giấy tờ",
       "vốn góp",
       "documents",
-      "giấy tờ"
+      "capital_contribution"
     ],
     "chunk_type": "point"
   },
@@ -2697,9 +2697,9 @@
     "article": 26,
     "clause": 5,
     "keywords": [
+      "giấy tờ",
       "clause_3",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -2711,9 +2711,9 @@
     "article": 26,
     "clause": 0,
     "keywords": [
+      "clause_3",
       "shareholder",
       "cổ đông",
-      "clause_3",
       "article_24",
       "documents",
       "giấy tờ"
@@ -2728,14 +2728,14 @@
     "article": 26,
     "clause": 0,
     "keywords": [
-      "transfer",
-      "vốn góp",
-      "capital_contribution",
-      "member",
       "chuyển nhượng",
+      "transfer",
+      "member",
+      "vốn góp",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "capital_contribution",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -2760,11 +2760,11 @@
     "article": 26,
     "clause": 6,
     "keywords": [
-      "clause_1",
       "member",
-      "đăng ký doanh nghiệp",
+      "business_registration",
       "thành viên",
-      "business_registration"
+      "đăng ký doanh nghiệp",
+      "clause_1"
     ],
     "chunk_type": "clause"
   },
@@ -2799,13 +2799,13 @@
     "article": 27,
     "clause": 2,
     "keywords": [
-      "vốn góp",
-      "hộ kinh doanh",
-      "capital_contribution",
       "household_business",
       "article_24",
-      "documents",
-      "giấy tờ"
+      "vốn góp",
+      "hộ kinh doanh",
+      "giấy tờ",
+      "capital_contribution",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -2830,10 +2830,10 @@
     "article": 27,
     "clause": 0,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "household_business",
-      "business_registration",
-      "hộ kinh doanh"
+      "đăng ký doanh nghiệp",
+      "hộ kinh doanh",
+      "business_registration"
     ],
     "chunk_type": "point"
   },
@@ -2891,8 +2891,8 @@
     "article": 27,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -2904,14 +2904,14 @@
     "article": 27,
     "clause": 0,
     "keywords": [
+      "member",
+      "ủy quyền",
+      "delegation",
+      "business_registration",
       "shareholder",
       "cổ đông",
-      "member",
-      "delegation",
-      "ủy quyền",
-      "đăng ký doanh nghiệp",
       "thành viên",
-      "business_registration"
+      "đăng ký doanh nghiệp"
     ],
     "chunk_type": "point"
   },
@@ -2923,8 +2923,8 @@
     "article": 27,
     "clause": 2,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -2948,12 +2948,12 @@
     "article": 27,
     "clause": 0,
     "keywords": [
-      "shareholder",
-      "cổ đông",
       "member",
-      "đăng ký doanh nghiệp",
+      "shareholder",
+      "business_registration",
+      "cổ đông",
       "thành viên",
-      "business_registration"
+      "đăng ký doanh nghiệp"
     ],
     "chunk_type": "point"
   },
@@ -2965,8 +2965,8 @@
     "article": 27,
     "clause": 3,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -2988,12 +2988,12 @@
     "article": 27,
     "clause": 0,
     "keywords": [
-      "shareholder",
-      "cổ đông",
       "member",
-      "đăng ký doanh nghiệp",
+      "shareholder",
+      "business_registration",
+      "cổ đông",
       "thành viên",
-      "business_registration"
+      "đăng ký doanh nghiệp"
     ],
     "chunk_type": "point"
   },
@@ -3005,10 +3005,10 @@
     "article": 27,
     "clause": 4,
     "keywords": [
+      "giấy tờ",
       "member",
-      "thành viên",
       "documents",
-      "giấy tờ"
+      "thành viên"
     ],
     "chunk_type": "clause"
   },
@@ -3020,9 +3020,9 @@
     "article": 27,
     "clause": 5,
     "keywords": [
+      "giấy tờ",
       "clause_1",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -3044,9 +3044,9 @@
     "article": 27,
     "clause": 1,
     "keywords": [
+      "giấy tờ",
       "clause_1",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -3137,9 +3137,9 @@
     "article": 29,
     "clause": 4,
     "keywords": [
+      "clause_4",
       "đăng ký doanh nghiệp",
       "article_95",
-      "clause_4",
       "business_registration"
     ],
     "chunk_type": "clause"
@@ -3162,9 +3162,9 @@
     "article": 30,
     "clause": 1,
     "keywords": [
-      "clause_2",
+      "giấy tờ",
       "documents",
-      "giấy tờ"
+      "clause_2"
     ],
     "chunk_type": "clause"
   },
@@ -3186,8 +3186,8 @@
     "article": 45,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -3199,8 +3199,8 @@
     "article": 45,
     "clause": 0,
     "keywords": [
-      "member",
       "thành viên",
+      "member",
       "clause_1"
     ],
     "chunk_type": "point"
@@ -3263,10 +3263,10 @@
     "article": 11,
     "clause": 4,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -3317,8 +3317,8 @@
     "article": 31,
     "clause": 0,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -3366,10 +3366,10 @@
     "article": 31,
     "clause": 4,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -3521,8 +3521,8 @@
     "article": 35,
     "clause": 1,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "clause_2",
+      "đăng ký doanh nghiệp",
       "business_registration"
     ],
     "chunk_type": "clause"
@@ -3545,8 +3545,8 @@
     "article": 35,
     "clause": 3,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "clause_2",
+      "đăng ký doanh nghiệp",
       "business_registration"
     ],
     "chunk_type": "clause"
@@ -3631,8 +3631,8 @@
     "article": 36,
     "clause": 3,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "clause_2",
+      "đăng ký doanh nghiệp",
       "business_registration"
     ],
     "chunk_type": "clause"
@@ -3740,10 +3740,10 @@
     "article": 38,
     "clause": 1,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -3768,8 +3768,8 @@
     "article": 38,
     "clause": 0,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -3794,14 +3794,14 @@
     "article": 38,
     "clause": 0,
     "keywords": [
-      "clause_9",
-      "delegation",
       "ủy quyền",
-      "đăng ký doanh nghiệp",
+      "delegation",
       "business_registration",
+      "clause_9",
       "article_12",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -3891,10 +3891,10 @@
     "article": 39,
     "clause": 5,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "clause_6",
-      "business_registration",
-      "article_31"
+      "đăng ký doanh nghiệp",
+      "article_31",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -3939,10 +3939,10 @@
     "article": 40,
     "clause": 2,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -3967,8 +3967,8 @@
     "article": 40,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -4013,10 +4013,10 @@
     "article": 41,
     "clause": 1,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -4041,8 +4041,8 @@
     "article": 41,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -4080,8 +4080,8 @@
     "article": 42,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "article"
   },
@@ -4093,13 +4093,13 @@
     "article": 42,
     "clause": 1,
     "keywords": [
-      "member",
-      "đăng ký doanh nghiệp",
       "article_185",
-      "thành viên",
+      "member",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "thành viên",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -4124,9 +4124,9 @@
     "article": 42,
     "clause": 0,
     "keywords": [
-      "member",
+      "article_25",
       "thành viên",
-      "article_25"
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -4151,10 +4151,10 @@
     "article": 42,
     "clause": 1,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -4177,10 +4177,10 @@
     "clause": 0,
     "keywords": [
       "shareholder",
-      "cổ đông",
       "member",
-      "article_24",
-      "thành viên"
+      "cổ đông",
+      "thành viên",
+      "article_24"
     ],
     "chunk_type": "point"
   },
@@ -4202,8 +4202,8 @@
     "article": 42,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -4227,8 +4227,8 @@
     "keywords": [
       "clause_4",
       "member",
-      "delegation",
       "ủy quyền",
+      "delegation",
       "thành viên"
     ],
     "chunk_type": "point"
@@ -4265,10 +4265,10 @@
     "clause": 0,
     "keywords": [
       "clause_2",
-      "article_78",
       "member",
-      "delegation",
       "ủy quyền",
+      "delegation",
+      "article_78",
       "thành viên"
     ],
     "chunk_type": "point"
@@ -4281,12 +4281,12 @@
     "article": 156,
     "clause": 3,
     "keywords": [
-      "clause_6",
       "member",
+      "clause_6",
       "thành viên",
       "article_12",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -4300,9 +4300,9 @@
     "keywords": [
       "clause_2",
       "member",
-      "đăng ký doanh nghiệp",
+      "business_registration",
       "thành viên",
-      "business_registration"
+      "đăng ký doanh nghiệp"
     ],
     "chunk_type": "clause"
   },
@@ -4337,10 +4337,10 @@
     "article": 44,
     "clause": 1,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -4362,8 +4362,8 @@
     "article": 44,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -4375,8 +4375,8 @@
     "article": 44,
     "clause": 0,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -4401,14 +4401,14 @@
     "article": 44,
     "clause": 2,
     "keywords": [
-      "vốn góp",
-      "capital_contribution",
       "member",
-      "đăng ký doanh nghiệp",
-      "thành viên",
+      "vốn góp",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "capital_contribution",
+      "thành viên",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -4433,14 +4433,14 @@
     "article": 44,
     "clause": 0,
     "keywords": [
-      "transfer",
-      "vốn góp",
-      "capital_contribution",
-      "member",
       "chuyển nhượng",
+      "transfer",
+      "member",
+      "vốn góp",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "capital_contribution",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -4465,8 +4465,8 @@
     "article": 44,
     "clause": 3,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -4514,10 +4514,10 @@
     "article": 44,
     "clause": 4,
     "keywords": [
-      "member",
       "article_68",
       "thành viên",
-      "clause_3"
+      "clause_3",
+      "member"
     ],
     "chunk_type": "clause"
   },
@@ -4539,8 +4539,8 @@
     "article": 45,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "article"
   },
@@ -4552,16 +4552,16 @@
     "article": 45,
     "clause": 1,
     "keywords": [
-      "vốn góp",
-      "article_47",
-      "capital_contribution",
-      "member",
       "clause_3",
-      "đăng ký doanh nghiệp",
-      "thành viên",
+      "member",
+      "vốn góp",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "capital_contribution",
+      "thành viên",
+      "article_47",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -4586,9 +4586,9 @@
     "article": 45,
     "clause": 0,
     "keywords": [
+      "thành viên",
       "capital_contribution",
       "member",
-      "thành viên",
       "vốn góp"
     ],
     "chunk_type": "point"
@@ -4601,10 +4601,10 @@
     "article": 45,
     "clause": 0,
     "keywords": [
+      "giấy tờ",
       "member",
-      "thành viên",
       "documents",
-      "giấy tờ"
+      "thành viên"
     ],
     "chunk_type": "point"
   },
@@ -4629,12 +4629,12 @@
     "article": 45,
     "clause": 2,
     "keywords": [
-      "vốn góp",
-      "capital_contribution",
       "member",
+      "vốn góp",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "capital_contribution",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -4659,12 +4659,12 @@
     "article": 45,
     "clause": 0,
     "keywords": [
-      "vốn góp",
-      "capital_contribution",
       "member",
+      "vốn góp",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "capital_contribution",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -4676,10 +4676,10 @@
     "article": 45,
     "clause": 0,
     "keywords": [
+      "giấy tờ",
       "member",
-      "thành viên",
       "documents",
-      "giấy tờ"
+      "thành viên"
     ],
     "chunk_type": "point"
   },
@@ -4704,10 +4704,10 @@
     "article": 45,
     "clause": 3,
     "keywords": [
+      "giấy tờ",
       "member",
-      "thành viên",
       "documents",
-      "giấy tờ"
+      "thành viên"
     ],
     "chunk_type": "clause"
   },
@@ -4732,9 +4732,9 @@
     "article": 45,
     "clause": 0,
     "keywords": [
+      "thành viên",
       "capital_contribution",
       "member",
-      "thành viên",
       "vốn góp"
     ],
     "chunk_type": "point"
@@ -4747,10 +4747,10 @@
     "article": 45,
     "clause": 0,
     "keywords": [
+      "giấy tờ",
       "member",
-      "thành viên",
       "documents",
-      "giấy tờ"
+      "thành viên"
     ],
     "chunk_type": "point"
   },
@@ -4775,12 +4775,12 @@
     "article": 45,
     "clause": 4,
     "keywords": [
-      "article_47",
-      "member",
       "clause_3",
+      "member",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "article_47",
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -4805,9 +4805,9 @@
     "article": 45,
     "clause": 0,
     "keywords": [
+      "thành viên",
       "capital_contribution",
       "member",
-      "thành viên",
       "vốn góp"
     ],
     "chunk_type": "point"
@@ -4833,9 +4833,9 @@
     "article": 45,
     "clause": 5,
     "keywords": [
+      "thành viên",
       "capital_contribution",
       "member",
-      "thành viên",
       "vốn góp"
     ],
     "chunk_type": "clause"
@@ -4848,16 +4848,16 @@
     "article": 45,
     "clause": 0,
     "keywords": [
-      "article_53",
-      "transfer",
-      "clause_6",
-      "vốn góp",
-      "capital_contribution",
       "chuyển nhượng",
-      "đăng ký doanh nghiệp",
+      "transfer",
+      "article_53",
+      "vốn góp",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "capital_contribution",
+      "clause_6",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -4870,15 +4870,15 @@
     "clause": 0,
     "keywords": [
       "article_53",
-      "clause_6",
-      "vốn góp",
-      "capital_contribution",
       "member",
-      "đăng ký doanh nghiệp",
-      "thành viên",
+      "vốn góp",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "capital_contribution",
+      "clause_6",
+      "thành viên",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -4890,9 +4890,9 @@
     "article": 45,
     "clause": 6,
     "keywords": [
+      "thành viên",
       "capital_contribution",
       "member",
-      "thành viên",
       "vốn góp"
     ],
     "chunk_type": "clause"
@@ -4905,14 +4905,14 @@
     "article": 45,
     "clause": 0,
     "keywords": [
-      "clause_7",
       "article_53",
-      "vốn góp",
-      "capital_contribution",
+      "clause_7",
       "member",
+      "vốn góp",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "capital_contribution",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -4924,18 +4924,18 @@
     "article": 45,
     "clause": 0,
     "keywords": [
-      "clause_7",
-      "article_53",
-      "transfer",
-      "vốn góp",
-      "capital_contribution",
-      "member",
       "chuyển nhượng",
-      "đăng ký doanh nghiệp",
-      "thành viên",
+      "transfer",
+      "article_53",
+      "clause_7",
+      "member",
+      "vốn góp",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "capital_contribution",
+      "thành viên",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -4948,12 +4948,12 @@
     "clause": 7,
     "keywords": [
       "article_51",
-      "vốn góp",
-      "capital_contribution",
       "member",
+      "vốn góp",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "capital_contribution",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -4978,9 +4978,9 @@
     "article": 45,
     "clause": 0,
     "keywords": [
+      "thành viên",
       "capital_contribution",
       "member",
-      "thành viên",
       "vốn góp"
     ],
     "chunk_type": "point"
@@ -5019,10 +5019,10 @@
     "article": 45,
     "clause": 8,
     "keywords": [
+      "giấy tờ",
       "member",
-      "thành viên",
       "documents",
-      "giấy tờ"
+      "thành viên"
     ],
     "chunk_type": "clause"
   },
@@ -5034,9 +5034,9 @@
     "article": 45,
     "clause": 0,
     "keywords": [
+      "giấy tờ",
       "clause_1",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -5048,9 +5048,9 @@
     "article": 45,
     "clause": 0,
     "keywords": [
+      "giấy tờ",
       "clause_1",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -5063,9 +5063,9 @@
     "clause": 0,
     "keywords": [
       "article_25",
-      "clause_2",
+      "giấy tờ",
       "documents",
-      "giấy tờ"
+      "clause_2"
     ],
     "chunk_type": "point"
   },
@@ -5077,10 +5077,10 @@
     "article": 45,
     "clause": 0,
     "keywords": [
-      "article_55",
-      "clause_2",
+      "giấy tờ",
       "documents",
-      "giấy tờ"
+      "article_55",
+      "clause_2"
     ],
     "chunk_type": "point"
   },
@@ -5092,14 +5092,14 @@
     "article": 45,
     "clause": 0,
     "keywords": [
-      "article_25",
-      "vốn góp",
-      "capital_contribution",
-      "member",
       "clause_3",
+      "member",
+      "vốn góp",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "article_25",
+      "giấy tờ",
+      "capital_contribution",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -5134,12 +5134,12 @@
     "article": 46,
     "clause": 1,
     "keywords": [
-      "transfer",
       "chuyển nhượng",
-      "đăng ký doanh nghiệp",
+      "transfer",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -5151,8 +5151,8 @@
     "article": 46,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -5164,14 +5164,14 @@
     "article": 46,
     "clause": 0,
     "keywords": [
-      "transfer",
-      "vốn góp",
-      "capital_contribution",
       "chuyển nhượng",
-      "delegation",
+      "transfer",
       "ủy quyền",
-      "documents",
-      "giấy tờ"
+      "delegation",
+      "vốn góp",
+      "giấy tờ",
+      "capital_contribution",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -5196,11 +5196,11 @@
     "article": 46,
     "clause": 2,
     "keywords": [
-      "clause_1",
+      "chuyển nhượng",
       "transfer",
       "member",
-      "chuyển nhượng",
       "thành viên",
+      "clause_1",
       "documents",
       "giấy tờ"
     ],
@@ -5215,11 +5215,11 @@
     "clause": 3,
     "keywords": [
       "member",
-      "đăng ký doanh nghiệp",
-      "thành viên",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "thành viên",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -5231,8 +5231,8 @@
     "article": 46,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -5244,8 +5244,8 @@
     "article": 46,
     "clause": 0,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -5270,15 +5270,15 @@
     "article": 46,
     "clause": 4,
     "keywords": [
-      "clause_1",
-      "transfer",
-      "vốn góp",
-      "capital_contribution",
-      "member",
       "chuyển nhượng",
+      "transfer",
+      "member",
+      "vốn góp",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "capital_contribution",
+      "clause_1",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -5290,15 +5290,15 @@
     "article": 46,
     "clause": 5,
     "keywords": [
-      "clause_1",
-      "vốn góp",
-      "capital_contribution",
       "member",
-      "đăng ký doanh nghiệp",
-      "thành viên",
+      "vốn góp",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "capital_contribution",
+      "thành viên",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "clause_1",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -5310,9 +5310,9 @@
     "article": 46,
     "clause": 0,
     "keywords": [
+      "giấy tờ",
       "clause_1",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -5325,9 +5325,9 @@
     "clause": 0,
     "keywords": [
       "article_25",
-      "clause_2",
+      "giấy tờ",
       "documents",
-      "giấy tờ"
+      "clause_2"
     ],
     "chunk_type": "point"
   },
@@ -5340,9 +5340,9 @@
     "clause": 0,
     "keywords": [
       "article_25",
+      "giấy tờ",
       "clause_3",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -5354,9 +5354,9 @@
     "article": 46,
     "clause": 6,
     "keywords": [
+      "thành viên",
       "đăng ký doanh nghiệp",
       "member",
-      "thành viên",
       "business_registration"
     ],
     "chunk_type": "clause"
@@ -5369,8 +5369,8 @@
     "article": 46,
     "clause": 0,
     "keywords": [
-      "member",
       "thành viên",
+      "member",
       "clause_1"
     ],
     "chunk_type": "point"
@@ -5384,9 +5384,9 @@
     "clause": 0,
     "keywords": [
       "đăng ký doanh nghiệp",
-      "business_registration",
       "ủy quyền",
-      "delegation"
+      "delegation",
+      "business_registration"
     ],
     "chunk_type": "point"
   },
@@ -5421,8 +5421,8 @@
     "article": 47,
     "clause": 1,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -5500,8 +5500,8 @@
     "article": 49,
     "clause": 1,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -5526,9 +5526,9 @@
     "article": 49,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên",
       "shareholder",
+      "thành viên",
+      "member",
       "cổ đông"
     ],
     "chunk_type": "point"
@@ -5564,8 +5564,8 @@
     "article": 50,
     "clause": 1,
     "keywords": [
-      "clause_4",
-      "article_4"
+      "article_4",
+      "clause_4"
     ],
     "chunk_type": "clause"
   },
@@ -5589,13 +5589,13 @@
     "article": 50,
     "clause": 3,
     "keywords": [
-      "shareholder",
-      "cổ đông",
       "clause_2",
-      "đăng ký doanh nghiệp",
+      "shareholder",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "cổ đông",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -5654,11 +5654,11 @@
     "clause": 1,
     "keywords": [
       "clause_3",
-      "article_31",
-      "đăng ký doanh nghiệp",
       "business_registration",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
       "documents",
-      "giấy tờ"
+      "article_31"
     ],
     "chunk_type": "clause"
   },
@@ -5683,12 +5683,12 @@
     "article": 51,
     "clause": 0,
     "keywords": [
+      "chuyển nhượng",
+      "transfer",
       "shareholder",
       "cổ đông",
-      "transfer",
-      "chuyển nhượng",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -5700,10 +5700,10 @@
     "article": 51,
     "clause": 0,
     "keywords": [
-      "cổ đông",
       "shareholder",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "cổ đông",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -5728,10 +5728,10 @@
     "article": 51,
     "clause": 2,
     "keywords": [
+      "shareholder",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "cổ đông",
-      "shareholder"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -5753,10 +5753,10 @@
     "article": 52,
     "clause": 1,
     "keywords": [
-      "clause_1",
+      "giấy tờ",
       "article_18",
-      "documents",
-      "giấy tờ"
+      "clause_1",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -5778,12 +5778,12 @@
     "article": 52,
     "clause": 0,
     "keywords": [
-      "giấy tờ",
       "clause_3",
-      "đăng ký doanh nghiệp",
+      "article_18",
       "business_registration",
-      "documents",
-      "article_18"
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -5861,14 +5861,14 @@
     "article": 54,
     "clause": 1,
     "keywords": [
-      "article_176",
       "clause_3",
-      "delegation",
       "ủy quyền",
-      "enterprise_code",
-      "đăng ký doanh nghiệp",
+      "delegation",
       "business_registration",
-      "mã số doanh nghiệp"
+      "mã số doanh nghiệp",
+      "enterprise_code",
+      "article_176",
+      "đăng ký doanh nghiệp"
     ],
     "chunk_type": "clause"
   },
@@ -5893,11 +5893,11 @@
     "clause": 3,
     "keywords": [
       "member",
-      "delegation",
       "ủy quyền",
-      "đăng ký doanh nghiệp",
+      "delegation",
+      "business_registration",
       "thành viên",
-      "business_registration"
+      "đăng ký doanh nghiệp"
     ],
     "chunk_type": "clause"
   },
@@ -5936,12 +5936,12 @@
     "clause": 1,
     "keywords": [
       "clause_2",
-      "vốn góp",
-      "capital_contribution",
       "member",
+      "vốn góp",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "capital_contribution",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -5953,11 +5953,11 @@
     "article": 55,
     "clause": 2,
     "keywords": [
-      "article_201",
-      "đăng ký doanh nghiệp",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "article_201",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -5969,12 +5969,12 @@
     "article": 55,
     "clause": 0,
     "keywords": [
+      "member",
       "shareholder",
       "cổ đông",
-      "member",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -5986,10 +5986,10 @@
     "article": 55,
     "clause": 0,
     "keywords": [
+      "giấy tờ",
       "member",
-      "thành viên",
       "documents",
-      "giấy tờ"
+      "thành viên"
     ],
     "chunk_type": "point"
   },
@@ -6087,8 +6087,8 @@
     "article": 56,
     "clause": 1,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "article_40",
+      "đăng ký doanh nghiệp",
       "business_registration"
     ],
     "chunk_type": "clause"
@@ -6144,8 +6144,8 @@
     "article": 56,
     "clause": 0,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "article_49",
+      "đăng ký doanh nghiệp",
       "business_registration"
     ],
     "chunk_type": "point"
@@ -6308,8 +6308,8 @@
     "article": 60,
     "clause": 2,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -6331,8 +6331,8 @@
     "article": 60,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -6475,8 +6475,8 @@
     "article": 63,
     "clause": 0,
     "keywords": [
-      "clause_5",
-      "article_21"
+      "article_21",
+      "clause_5"
     ],
     "chunk_type": "point"
   },
@@ -6543,8 +6543,8 @@
     "article": 208,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -6556,9 +6556,9 @@
     "article": 208,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên",
       "shareholder",
+      "thành viên",
+      "member",
       "cổ đông"
     ],
     "chunk_type": "point"
@@ -6601,9 +6601,9 @@
     "article": 208,
     "clause": 3,
     "keywords": [
+      "giấy tờ",
       "clause_1",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -6648,11 +6648,11 @@
     "article": 210,
     "clause": 7,
     "keywords": [
-      "article_208",
       "member",
-      "đăng ký doanh nghiệp",
+      "article_208",
+      "business_registration",
       "thành viên",
-      "business_registration"
+      "đăng ký doanh nghiệp"
     ],
     "chunk_type": "clause"
   },
@@ -6750,8 +6750,8 @@
     "article": 66,
     "clause": 2,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -6763,8 +6763,8 @@
     "article": 66,
     "clause": 0,
     "keywords": [
-      "member",
-      "thành viên"
+      "thành viên",
+      "member"
     ],
     "chunk_type": "point"
   },
@@ -6882,10 +6882,10 @@
     "clause": 4,
     "keywords": [
       "clause_2",
-      "đăng ký doanh nghiệp",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -6909,10 +6909,10 @@
     "keywords": [
       "article_69",
       "clause_2",
-      "đăng ký doanh nghiệp",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -6924,8 +6924,8 @@
     "article": 68,
     "clause": 2,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -6957,8 +6957,8 @@
     "article": 68,
     "clause": 3,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "clause_2",
+      "đăng ký doanh nghiệp",
       "business_registration"
     ],
     "chunk_type": "clause"
@@ -6994,9 +6994,9 @@
     "article": 68,
     "clause": 0,
     "keywords": [
+      "clause_2",
       "đăng ký doanh nghiệp",
       "article_68",
-      "clause_2",
       "business_registration"
     ],
     "chunk_type": "point"
@@ -7009,12 +7009,12 @@
     "article": 68,
     "clause": 0,
     "keywords": [
-      "article_68",
       "clause_2",
-      "đăng ký doanh nghiệp",
+      "article_68",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -7026,10 +7026,10 @@
     "article": 68,
     "clause": 0,
     "keywords": [
-      "clause_2",
+      "giấy tờ",
       "article_68",
       "documents",
-      "giấy tờ"
+      "clause_2"
     ],
     "chunk_type": "point"
   },
@@ -7064,9 +7064,9 @@
     "article": 68,
     "clause": 0,
     "keywords": [
+      "thành viên",
       "đăng ký doanh nghiệp",
       "member",
-      "thành viên",
       "business_registration"
     ],
     "chunk_type": "point"
@@ -7079,12 +7079,12 @@
     "article": 68,
     "clause": 0,
     "keywords": [
-      "clause_5",
       "member",
-      "đăng ký doanh nghiệp",
-      "thành viên",
       "business_registration",
-      "article_21"
+      "article_21",
+      "clause_5",
+      "thành viên",
+      "đăng ký doanh nghiệp"
     ],
     "chunk_type": "point"
   },
@@ -7109,8 +7109,8 @@
     "article": 68,
     "clause": 4,
     "keywords": [
-      "clause_1",
-      "article_216"
+      "article_216",
+      "clause_1"
     ],
     "chunk_type": "clause"
   },
@@ -7156,8 +7156,8 @@
     "clause": 7,
     "keywords": [
       "đăng ký doanh nghiệp",
-      "business_registration",
-      "article_209"
+      "article_209",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -7182,9 +7182,9 @@
     "article": 212,
     "clause": 9,
     "keywords": [
+      "giấy tờ",
       "clause_1",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -7341,10 +7341,10 @@
     "article": 71,
     "clause": 0,
     "keywords": [
-      "clause_2",
+      "giấy tờ",
       "article_68",
       "documents",
-      "giấy tờ"
+      "clause_2"
     ],
     "chunk_type": "point"
   },
@@ -7356,12 +7356,12 @@
     "article": 71,
     "clause": 0,
     "keywords": [
-      "article_68",
       "clause_2",
-      "đăng ký doanh nghiệp",
+      "article_68",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -7448,9 +7448,9 @@
     "article": 71,
     "clause": 9,
     "keywords": [
+      "giấy tờ",
       "clause_1",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -7549,8 +7549,8 @@
     "article": 73,
     "clause": 1,
     "keywords": [
-      "article_32",
-      "clause_1"
+      "clause_1",
+      "article_32"
     ],
     "chunk_type": "clause"
   },
@@ -7734,8 +7734,8 @@
     "clause": 2,
     "keywords": [
       "đăng ký doanh nghiệp",
-      "business_registration",
-      "clause_1"
+      "clause_1",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -7757,10 +7757,10 @@
     "article": 57,
     "clause": 3,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -7785,10 +7785,10 @@
     "article": 57,
     "clause": 1,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -7826,8 +7826,8 @@
     "article": 57,
     "clause": 5,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "clause_3",
+      "đăng ký doanh nghiệp",
       "business_registration"
     ],
     "chunk_type": "clause"
@@ -7841,8 +7841,8 @@
     "clause": 6,
     "keywords": [
       "đăng ký doanh nghiệp",
-      "business_registration",
-      "clause_1"
+      "clause_1",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -7864,8 +7864,8 @@
     "article": 78,
     "clause": 1,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -7878,8 +7878,8 @@
     "clause": 2,
     "keywords": [
       "đăng ký doanh nghiệp",
-      "business_registration",
-      "clause_1"
+      "clause_1",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -8109,10 +8109,10 @@
     "article": 81,
     "clause": 4,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "enterprise_code",
-      "business_registration",
-      "mã số doanh nghiệp"
+      "đăng ký doanh nghiệp",
+      "mã số doanh nghiệp",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -8150,11 +8150,11 @@
     "article": 82,
     "clause": 1,
     "keywords": [
-      "hộ kinh doanh",
-      "member",
       "household_business",
-      "delegation",
+      "member",
       "ủy quyền",
+      "delegation",
+      "hộ kinh doanh",
       "thành viên"
     ],
     "chunk_type": "clause"
@@ -8205,8 +8205,8 @@
     "article": 82,
     "clause": 3,
     "keywords": [
-      "clause_3",
       "household_business",
+      "clause_3",
       "hộ kinh doanh"
     ],
     "chunk_type": "clause"
@@ -8232,11 +8232,11 @@
     "article": 83,
     "clause": 1,
     "keywords": [
-      "clause_2",
-      "hộ kinh doanh",
-      "member",
       "household_business",
       "article_82",
+      "clause_2",
+      "member",
+      "hộ kinh doanh",
       "thành viên"
     ],
     "chunk_type": "clause"
@@ -8335,12 +8335,12 @@
     "article": 84,
     "clause": 4,
     "keywords": [
-      "hộ kinh doanh",
-      "vốn góp",
-      "capital_contribution",
-      "member",
       "household_business",
-      "thành viên"
+      "member",
+      "vốn góp",
+      "hộ kinh doanh",
+      "thành viên",
+      "capital_contribution"
     ],
     "chunk_type": "clause"
   },
@@ -8397,11 +8397,11 @@
     "article": 84,
     "clause": 0,
     "keywords": [
-      "hộ kinh doanh",
-      "member",
       "household_business",
-      "delegation",
+      "member",
       "ủy quyền",
+      "delegation",
+      "hộ kinh doanh",
       "thành viên"
     ],
     "chunk_type": "point"
@@ -8645,8 +8645,8 @@
     "article": 86,
     "clause": 4,
     "keywords": [
-      "clause_6",
       "household_business",
+      "clause_6",
       "hộ kinh doanh"
     ],
     "chunk_type": "clause"
@@ -8813,9 +8813,9 @@
     "clause": 3,
     "keywords": [
       "household_business",
+      "giấy tờ",
       "hộ kinh doanh",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -8980,9 +8980,9 @@
     "clause": 2,
     "keywords": [
       "household_business",
+      "giấy tờ",
       "hộ kinh doanh",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -9244,10 +9244,10 @@
     "article": 93,
     "clause": 0,
     "keywords": [
-      "ủy quyền",
       "household_business",
-      "delegation",
-      "hộ kinh doanh"
+      "hộ kinh doanh",
+      "ủy quyền",
+      "delegation"
     ],
     "chunk_type": "article"
   },
@@ -9259,10 +9259,10 @@
     "article": 93,
     "clause": 1,
     "keywords": [
-      "ủy quyền",
       "household_business",
-      "delegation",
-      "hộ kinh doanh"
+      "hộ kinh doanh",
+      "ủy quyền",
+      "delegation"
     ],
     "chunk_type": "clause"
   },
@@ -9274,10 +9274,10 @@
     "article": 93,
     "clause": 2,
     "keywords": [
-      "ủy quyền",
       "household_business",
-      "delegation",
-      "hộ kinh doanh"
+      "hộ kinh doanh",
+      "ủy quyền",
+      "delegation"
     ],
     "chunk_type": "clause"
   },
@@ -9289,11 +9289,11 @@
     "article": 93,
     "clause": 3,
     "keywords": [
-      "clause_2",
-      "hộ kinh doanh",
       "household_business",
+      "clause_2",
+      "ủy quyền",
       "delegation",
-      "ủy quyền"
+      "hộ kinh doanh"
     ],
     "chunk_type": "clause"
   },
@@ -9305,12 +9305,12 @@
     "article": 93,
     "clause": 5,
     "keywords": [
-      "clause_6",
-      "article_22",
-      "hộ kinh doanh",
       "household_business",
+      "ủy quyền",
       "delegation",
-      "ủy quyền"
+      "clause_6",
+      "hộ kinh doanh",
+      "article_22"
     ],
     "chunk_type": "clause"
   },
@@ -9381,8 +9381,8 @@
     "article": 95,
     "clause": 0,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -9395,9 +9395,9 @@
     "clause": 0,
     "keywords": [
       "household_business",
+      "giấy tờ",
       "hộ kinh doanh",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -9410,9 +9410,9 @@
     "clause": 0,
     "keywords": [
       "household_business",
+      "giấy tờ",
       "hộ kinh doanh",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -9608,8 +9608,8 @@
     "article": 97,
     "clause": 1,
     "keywords": [
-      "clause_2",
       "household_business",
+      "clause_2",
       "hộ kinh doanh"
     ],
     "chunk_type": "clause"
@@ -9648,8 +9648,8 @@
     "article": 97,
     "clause": 4,
     "keywords": [
-      "clause_2",
       "household_business",
+      "clause_2",
       "hộ kinh doanh"
     ],
     "chunk_type": "clause"
@@ -9701,10 +9701,10 @@
     "article": 99,
     "clause": 1,
     "keywords": [
-      "ủy quyền",
       "household_business",
-      "delegation",
-      "hộ kinh doanh"
+      "hộ kinh doanh",
+      "ủy quyền",
+      "delegation"
     ],
     "chunk_type": "clause"
   },
@@ -9729,11 +9729,11 @@
     "article": 99,
     "clause": 0,
     "keywords": [
-      "hộ kinh doanh",
-      "member",
       "household_business",
-      "delegation",
+      "member",
       "ủy quyền",
+      "delegation",
+      "hộ kinh doanh",
       "thành viên"
     ],
     "chunk_type": "point"
@@ -9746,10 +9746,10 @@
     "article": 99,
     "clause": 3,
     "keywords": [
-      "article_85",
       "household_business",
-      "clause_2",
-      "hộ kinh doanh"
+      "article_85",
+      "hộ kinh doanh",
+      "clause_2"
     ],
     "chunk_type": "clause"
   },
@@ -9869,14 +9869,14 @@
     "article": 100,
     "clause": 3,
     "keywords": [
-      "hộ kinh doanh",
-      "member",
       "household_business",
-      "delegation",
+      "member",
       "ủy quyền",
+      "delegation",
+      "hộ kinh doanh",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -9901,11 +9901,11 @@
     "article": 100,
     "clause": 0,
     "keywords": [
-      "hộ kinh doanh",
-      "member",
       "household_business",
-      "delegation",
+      "member",
       "ủy quyền",
+      "delegation",
+      "hộ kinh doanh",
       "thành viên"
     ],
     "chunk_type": "point"
@@ -9918,13 +9918,13 @@
     "article": 100,
     "clause": 4,
     "keywords": [
-      "hộ kinh doanh",
-      "member",
       "household_business",
       "clause_3",
+      "member",
+      "hộ kinh doanh",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -9951,12 +9951,12 @@
     "article": 100,
     "clause": 6,
     "keywords": [
-      "hộ kinh doanh",
-      "member",
       "household_business",
+      "member",
+      "hộ kinh doanh",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -9981,11 +9981,11 @@
     "article": 100,
     "clause": 0,
     "keywords": [
-      "hộ kinh doanh",
-      "member",
       "household_business",
-      "delegation",
+      "member",
       "ủy quyền",
+      "delegation",
+      "hộ kinh doanh",
       "thành viên"
     ],
     "chunk_type": "point"
@@ -10035,8 +10035,8 @@
     "article": 101,
     "clause": 2,
     "keywords": [
-      "article_100",
       "household_business",
+      "article_100",
       "hộ kinh doanh"
     ],
     "chunk_type": "clause"
@@ -10263,10 +10263,10 @@
     "article": 104,
     "clause": 0,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "household_business",
-      "business_registration",
-      "hộ kinh doanh"
+      "đăng ký doanh nghiệp",
+      "hộ kinh doanh",
+      "business_registration"
     ],
     "chunk_type": "point"
   },
@@ -10278,12 +10278,12 @@
     "article": 104,
     "clause": 2,
     "keywords": [
+      "household_business",
+      "business_registration",
       "clause_8",
       "hộ kinh doanh",
-      "household_business",
       "article_107",
-      "đăng ký doanh nghiệp",
-      "business_registration"
+      "đăng ký doanh nghiệp"
     ],
     "chunk_type": "clause"
   },
@@ -10344,8 +10344,8 @@
     "article": 105,
     "clause": 3,
     "keywords": [
-      "clause_6",
       "household_business",
+      "clause_6",
       "article_22",
       "hộ kinh doanh"
     ],
@@ -10389,13 +10389,13 @@
     "article": 105,
     "clause": 1,
     "keywords": [
-      "clause_2",
-      "hộ kinh doanh",
-      "member",
       "household_business",
+      "clause_2",
+      "member",
+      "hộ kinh doanh",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -10443,8 +10443,8 @@
     "article": 105,
     "clause": 3,
     "keywords": [
-      "clause_2",
       "household_business",
+      "clause_2",
       "hộ kinh doanh"
     ],
     "chunk_type": "clause"
@@ -10470,12 +10470,12 @@
     "article": 105,
     "clause": 0,
     "keywords": [
-      "article_106",
+      "household_business",
       "clause_2",
       "hộ kinh doanh",
-      "household_business",
-      "documents",
-      "giấy tờ"
+      "article_106",
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -10487,14 +10487,14 @@
     "article": 105,
     "clause": 0,
     "keywords": [
-      "article_106",
-      "clause_2",
-      "hộ kinh doanh",
       "household_business",
-      "đăng ký doanh nghiệp",
+      "clause_2",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "hộ kinh doanh",
+      "article_106",
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -10532,10 +10532,10 @@
     "article": 105,
     "clause": 0,
     "keywords": [
-      "clause_2",
       "household_business",
-      "article_82",
-      "hộ kinh doanh"
+      "clause_2",
+      "hộ kinh doanh",
+      "article_82"
     ],
     "chunk_type": "point"
   },
@@ -10547,11 +10547,11 @@
     "article": 105,
     "clause": 0,
     "keywords": [
-      "clause_2",
-      "hộ kinh doanh",
-      "member",
       "household_business",
       "article_82",
+      "clause_2",
+      "member",
+      "hộ kinh doanh",
       "thành viên"
     ],
     "chunk_type": "point"
@@ -10564,8 +10564,8 @@
     "article": 105,
     "clause": 3,
     "keywords": [
-      "clause_6",
       "household_business",
+      "clause_6",
       "hộ kinh doanh"
     ],
     "chunk_type": "clause"
@@ -10746,8 +10746,8 @@
     "article": 109,
     "clause": 0,
     "keywords": [
-      "clause_6",
       "household_business",
+      "clause_6",
       "article_22",
       "hộ kinh doanh"
     ],
@@ -10814,9 +10814,9 @@
     "clause": 1,
     "keywords": [
       "household_business",
+      "giấy tờ",
       "hộ kinh doanh",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -10842,9 +10842,9 @@
     "clause": 0,
     "keywords": [
       "household_business",
+      "giấy tờ",
       "hộ kinh doanh",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -10856,10 +10856,10 @@
     "article": 111,
     "clause": 0,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "household_business",
-      "business_registration",
-      "hộ kinh doanh"
+      "đăng ký doanh nghiệp",
+      "hộ kinh doanh",
+      "business_registration"
     ],
     "chunk_type": "point"
   },
@@ -10871,12 +10871,12 @@
     "article": 111,
     "clause": 0,
     "keywords": [
-      "hộ kinh doanh",
       "household_business",
-      "delegation",
       "ủy quyền",
-      "documents",
-      "giấy tờ"
+      "delegation",
+      "hộ kinh doanh",
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -10990,9 +10990,9 @@
     "clause": 6,
     "keywords": [
       "household_business",
-      "clause_5",
       "hộ kinh doanh",
-      "article_95"
+      "article_95",
+      "clause_5"
     ],
     "chunk_type": "clause"
   },
@@ -11017,10 +11017,10 @@
     "article": 114,
     "clause": 1,
     "keywords": [
-      "clause_3",
       "household_business",
-      "article_115",
-      "hộ kinh doanh"
+      "clause_3",
+      "hộ kinh doanh",
+      "article_115"
     ],
     "chunk_type": "clause"
   },
@@ -11140,10 +11140,10 @@
     "article": 118,
     "clause": 1,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -11177,10 +11177,10 @@
     "article": 119,
     "clause": 1,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -11192,8 +11192,8 @@
     "article": 119,
     "clause": 2,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -11205,10 +11205,10 @@
     "article": 119,
     "clause": 0,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "point"
   },
@@ -11220,8 +11220,8 @@
     "article": 119,
     "clause": 0,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -11233,8 +11233,8 @@
     "article": 119,
     "clause": 0,
     "keywords": [
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -11247,10 +11247,10 @@
     "clause": 3,
     "keywords": [
       "clause_2",
-      "đăng ký doanh nghiệp",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -11262,11 +11262,11 @@
     "article": 119,
     "clause": 4,
     "keywords": [
-      "clause_1",
-      "đăng ký doanh nghiệp",
       "business_registration",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "đăng ký doanh nghiệp",
+      "clause_1",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -11288,10 +11288,10 @@
     "article": 210,
     "clause": 5,
     "keywords": [
+      "giấy tờ",
       "đăng ký doanh nghiệp",
-      "business_registration",
       "documents",
-      "giấy tờ"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -11326,9 +11326,9 @@
     "article": 120,
     "clause": 1,
     "keywords": [
+      "article_29",
       "đăng ký doanh nghiệp",
-      "business_registration",
-      "article_29"
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -11341,8 +11341,8 @@
     "clause": 2,
     "keywords": [
       "đăng ký doanh nghiệp",
-      "business_registration",
-      "clause_1"
+      "clause_1",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -11400,9 +11400,9 @@
     "clause": 1,
     "keywords": [
       "household_business",
+      "giấy tờ",
       "hộ kinh doanh",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -11415,9 +11415,9 @@
     "clause": 0,
     "keywords": [
       "household_business",
+      "giấy tờ",
       "hộ kinh doanh",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -11430,9 +11430,9 @@
     "clause": 0,
     "keywords": [
       "household_business",
+      "giấy tờ",
       "hộ kinh doanh",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -11444,11 +11444,11 @@
     "article": 123,
     "clause": 2,
     "keywords": [
-      "clause_1",
-      "hộ kinh doanh",
       "household_business",
-      "documents",
-      "giấy tờ"
+      "hộ kinh doanh",
+      "giấy tờ",
+      "clause_1",
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -11461,9 +11461,9 @@
     "clause": 3,
     "keywords": [
       "household_business",
+      "giấy tờ",
       "hộ kinh doanh",
-      "documents",
-      "giấy tờ"
+      "documents"
     ],
     "chunk_type": "clause"
   },
@@ -11488,12 +11488,12 @@
     "article": 123,
     "clause": 0,
     "keywords": [
-      "hộ kinh doanh",
-      "member",
       "household_business",
+      "member",
+      "hộ kinh doanh",
       "thành viên",
-      "documents",
-      "giấy tờ"
+      "giấy tờ",
+      "documents"
     ],
     "chunk_type": "point"
   },
@@ -11579,13 +11579,13 @@
     "clause": 3,
     "keywords": [
       "clause_2",
+      "member",
       "vốn góp",
       "capital_contribution",
-      "member",
+      "business_registration",
       "article_66",
-      "đăng ký doanh nghiệp",
       "thành viên",
-      "business_registration"
+      "đăng ký doanh nghiệp"
     ],
     "chunk_type": "clause"
   },
@@ -11597,10 +11597,10 @@
     "article": 124,
     "clause": 4,
     "keywords": [
-      "đăng ký doanh nghiệp",
-      "business_registration",
       "article_12",
-      "clause_5"
+      "đăng ký doanh nghiệp",
+      "clause_5",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
@@ -11612,10 +11612,10 @@
     "article": 124,
     "clause": 5,
     "keywords": [
-      "đăng ký doanh nghiệp",
       "household_business",
-      "business_registration",
-      "hộ kinh doanh"
+      "đăng ký doanh nghiệp",
+      "hộ kinh doanh",
+      "business_registration"
     ],
     "chunk_type": "clause"
   },
