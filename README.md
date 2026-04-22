@@ -28,39 +28,85 @@ Legal Agent là một hệ thống trợ lý ảo thông minh chuyên tư vấn 
 | 5   | Đặng Hữu Tâm     | 22174600022  |
 
 ---
-## Tính năng chính
+# Tính năng
 
-**1. Xử lý PDF scanned**
+## 1. Xử lý PDF dạng scan
+Hệ thống hỗ trợ xử lý các file PDF được scan từ tài liệu giấy:
+- Sử dụng EasyOCR để nhận dạng văn bản
+- Áp dụng các kỹ thuật tiền xử lý ảnh:
+  - Tăng độ tương phản
+  - Nhị phân hóa
+  - Khử nhiễu
 
-Hệ thống có thể xử lý các file PDF được scan từ sách giấy, sử dụng EasyOCR kết hợp với tiền xử lý ảnh (tăng contrast, nhị phân hóa, khử nhiễu) để trích xuất văn bản với độ chính xác cao.
+Đảm bảo trích xuất văn bản với độ chính xác cao.
 
-**2. Parse cấu trúc pháp luật thông minh**
+---
 
-Tự động nhận diện và trích xuất cấu trúc phân cấp của văn bản pháp luật: Chương, Điều, Khoản, Điểm.
+## 2. Phân tích cấu trúc pháp luật thông minh
+Tự động nhận diện và trích xuất cấu trúc phân cấp của văn bản pháp luật:
+- Chương
+- Điều
+- Khoản
+- Điểm
 
-**3. Hybrid Search (BM25 + Dense Embedding)**
+Giúp tổ chức dữ liệu rõ ràng và hỗ trợ truy xuất chính xác.
 
-Kết hợp hai phương pháp tìm kiếm: BM25 tìm kiếm chính xác theo từ khóa và Dense Embedding tìm kiếm theo ngữ nghĩa.
+---
 
-**4. Reranking kết quả**
+## 3. Tìm kiếm lai (Hybrid Search: BM25 + Dense Embedding)
+Kết hợp hai phương pháp tìm kiếm:
+- BM25: tìm kiếm theo từ khóa
+- Dense Embedding: tìm kiếm theo ngữ nghĩa
 
-Sử dụng Cross-Encoder để tái sắp xếp kết quả tìm kiếm, đưa ra những thông tin liên quan nhất lên đầu.
+Giúp cải thiện cả độ chính xác và khả năng bao phủ kết quả.
 
-**5. Truy xuất tham chiếu chéo**
+---
 
-Khi một điều khoản nhắc đến điều khoản khác, hệ thống tự động tìm và lấy nội dung của điều khoản được tham chiếu.
+## 4. Tái xếp hạng kết quả (Reranking)
+Sử dụng mô hình Cross-Encoder để:
+- Đánh giá lại mức độ liên quan giữa câu hỏi và tài liệu
+- Sắp xếp lại kết quả tìm kiếm
 
-**6. Cache thông minh**
+Đảm bảo các kết quả phù hợp nhất được ưu tiên hiển thị.
 
-Lưu cache OCR, câu trả lời, model config để tăng tốc độ xử lý.
+---
 
-**7. Hướng dẫn chi tiết**
+## 5. Truy xuất tham chiếu chéo
+Tự động phát hiện và xử lý các tham chiếu trong văn bản:
+- Nhận diện các mẫu như "Khoản X Điều Y"
+- Truy xuất nội dung của điều khoản được tham chiếu
 
-Câu trả lời kèm hướng dẫn thực hiện, giấy tờ cần chuẩn bị, cơ quan có thẩm quyền.
+Giúp cung cấp ngữ cảnh đầy đủ và liên kết chặt chẽ.
 
-**8. Giao diện Streamlit**
+---
 
-Web app thân thiện, dễ sử dụng, hiển thị rõ nguồn tham khảo.
+## 6. Cache thông minh
+Tối ưu hiệu năng hệ thống thông qua cơ chế cache:
+- Cache kết quả OCR
+- Cache câu hỏi và câu trả lời
+- Cache cấu hình mô hình
+
+Giảm thời gian xử lý và tăng tốc độ phản hồi.
+
+---
+
+## 7. Hướng dẫn chi tiết
+Câu trả lời không chỉ cung cấp thông tin mà còn bao gồm:
+- Hướng dẫn thực hiện từng bước
+- Danh sách giấy tờ cần chuẩn bị
+- Cơ quan có thẩm quyền liên quan
+
+Tăng tính thực tiễn cho người dùng.
+
+---
+
+## 8. Giao diện Streamlit
+Cung cấp giao diện web thân thiện:
+- Dễ sử dụng
+- Hiển thị rõ nguồn tham khảo
+- Trình bày kết quả có cấu trúc
+
+Nâng cao trải nghiệm người dùng.
 
 ## Kiến trúc hệ thống
 
