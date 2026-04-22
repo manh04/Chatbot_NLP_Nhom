@@ -40,7 +40,6 @@ Hệ thống hỗ trợ xử lý các file PDF được scan từ tài liệu gi
 
 Đảm bảo trích xuất văn bản với độ chính xác cao.
 
----
 
 ## 2. Phân tích cấu trúc pháp luật thông minh
 Tự động nhận diện và trích xuất cấu trúc phân cấp của văn bản pháp luật:
@@ -51,7 +50,6 @@ Tự động nhận diện và trích xuất cấu trúc phân cấp của văn 
 
 Giúp tổ chức dữ liệu rõ ràng và hỗ trợ truy xuất chính xác.
 
----
 
 ## 3. Tìm kiếm lai (Hybrid Search: BM25 + Dense Embedding)
 Kết hợp hai phương pháp tìm kiếm:
@@ -60,7 +58,6 @@ Kết hợp hai phương pháp tìm kiếm:
 
 Giúp cải thiện cả độ chính xác và khả năng bao phủ kết quả.
 
----
 
 ## 4. Tái xếp hạng kết quả (Reranking)
 Sử dụng mô hình Cross-Encoder để:
@@ -69,7 +66,6 @@ Sử dụng mô hình Cross-Encoder để:
 
 Đảm bảo các kết quả phù hợp nhất được ưu tiên hiển thị.
 
----
 
 ## 5. Truy xuất tham chiếu chéo
 Tự động phát hiện và xử lý các tham chiếu trong văn bản:
@@ -78,7 +74,6 @@ Tự động phát hiện và xử lý các tham chiếu trong văn bản:
 
 Giúp cung cấp ngữ cảnh đầy đủ và liên kết chặt chẽ.
 
----
 
 ## 6. Cache thông minh
 Tối ưu hiệu năng hệ thống thông qua cơ chế cache:
@@ -88,7 +83,6 @@ Tối ưu hiệu năng hệ thống thông qua cơ chế cache:
 
 Giảm thời gian xử lý và tăng tốc độ phản hồi.
 
----
 
 ## 7. Hướng dẫn chi tiết
 Câu trả lời không chỉ cung cấp thông tin mà còn bao gồm:
@@ -98,7 +92,6 @@ Câu trả lời không chỉ cung cấp thông tin mà còn bao gồm:
 
 Tăng tính thực tiễn cho người dùng.
 
----
 
 ## 8. Giao diện Streamlit
 Cung cấp giao diện web thân thiện:
@@ -107,6 +100,8 @@ Cung cấp giao diện web thân thiện:
 - Trình bày kết quả có cấu trúc
 
 Nâng cao trải nghiệm người dùng.
+
+---
 
 ## Kiến trúc hệ thống
 
